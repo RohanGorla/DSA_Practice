@@ -1,0 +1,12 @@
+{
+  "name": "find_second_largest",
+  "version": "1.0.0",
+  "description": "\"This is solution to finding 2nd largest value in an array\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rohan",
+  "license": "ISC"
+}
